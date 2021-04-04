@@ -65,7 +65,7 @@ $(document).ready(function()
         
 		if (task_count <= 10){
 			$("#trial1").html(task_count);	
-			//console.log("static " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + total_time);
+			console.log("static " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + total_time);
 			stat_results.push("static " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + total_time);
 			//console.log(stat_results);
 		}
