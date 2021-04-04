@@ -5,7 +5,7 @@ $(document).ready(function()
 	$("#trial1").html(0);
 	stat_results = [];
 	var menu_items = [["Carrot", "Tomato", "Onion", "Garlic","Salmon", "Shrimp", "Lobster", "Oyster","Orange", "Lemon", "Apple", "Banana","Chicken", "Beef", "Lamp", "Pork"], 
-						["Rice", "Soup", "Noodle", "Pasta","Cheddar", "Milk", "Juice", "Alcohol","Hamburger", "Pizza", "Fries", "Sandwiches","Coffee", "Machiato", "Espresso", "Cappucchino"],
+						["Rice", "Soup", "Noodle", "Pasta","Cheddar", "Milk", "Juice", "Alcohol","Hamburger", "Pizza", "Fries", "Sandwiches","Coffee", "Macchiato", "Espresso", "Cappuccino"],
 						["Curry", "Steak", "Sushi", "Hotpot","Korea", "Japan", "India", "Thailand","Spain", "Germany", "Italy", "France","Winter", "Summer", "Spring", "Autumn"]];
 
 	

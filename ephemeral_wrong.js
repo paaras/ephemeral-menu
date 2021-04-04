@@ -4,7 +4,7 @@ $(document).ready(function()
 	$("ul").empty();
 	$("#trial3").html(0);
 	ephem_results = [];
-	var menu_lists = [["Salmon","Tilpaia","Catfish","Cod", "Disney","Pixar","DreamWorks","Blue Sky", "Toyota","Hoda","Mazda","Nissan", "Mexico","USA","Canada","Cuba"], 
+	var menu_lists = [["Salmon","Tilapia","Catfish","Cod", "Disney","Pixar","DreamWorks","Blue Sky", "Toyota","Honda","Mazda","Nissan", "Mexico","USA","Canada","Cuba"], 
 						["Colgate","Crest","Sensodyne","Pepsodent", "Vizio","Samsung","LG","Sony", "Amazon","Google","Facebook","Apple", "Red","Orange","Yellow","Green"],
 						["NASA","SpaceX","Blue Origin","Boeing", "Stanford","SJSU","Santa Clara University","UCSC", "Goodyear","Michelin","Continental","Yokohama","BMW","Lexus","Mercedes-Benz","Audi"]];
 
