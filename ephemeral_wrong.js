@@ -101,7 +101,7 @@ $(document).ready(function()
 		
 		if (task_count <= 10){
 			$("#trial3").html(task_count);	
-			console.log("ephemeral " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
+			console.log("ephemeralw " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
 			ephem_results.push("ephemeralw " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
 			//console.log(ephem_results)
 		}
