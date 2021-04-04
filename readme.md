@@ -1,12 +1,19 @@
 Ephemeral Adaptation Experiment
+
 Vy Tran
 Paaras Chand
 
-Requirements:
+Requirements
+
+
 Any browser with ES6 Support (latest version of Chrome, Safari, Firefox are preferred):
+
+
     Chrome 86+
     Firefox 84+
     Safari 12+
+
+
 While mobile browsers are supported, touch input (excluding trackpad) is not recommended for this experiment.
 
 Instructions
