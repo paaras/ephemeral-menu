@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+<html> 
+
+<head>
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="layout.css" />
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<h1> Ephemeral Adaptation Experiment </h1>
+
+</head>
+
+<body>
+	<script type="text/javascript" src="static.js"> </script>
+	<script type="text/javascript" src="ephemeral.js"> </script>
+	<script type="text/javascript" src="ephemeral_wrong.js"> </script>
+	<p>
+		<!--
+		<br>
+		Step 1.  
+		<br>
+		Please complete the following one-time survey before start.
+		<a href="https://forms.gle/j1ZsdaSbfEwioo59A" target="_"><input type="button" value="User Survey"/></a>
+		-->
+
+		<h3>Step 1: Static Menu</h3>
+		<p>You will be asked to click one of the three <b>Menus</b>.</p>
+		<p>And then select the corresponding <b>Choice</b>.</p>
+		<p>Press <input type="button" value="Start" id="MyButton1" > to begin:</p>
+		
+		<span id="selection1">Menu # >>> Choice</span>
+		<span id="trial1">0</span>
+		/
+		<span id="total1">10</span>
+		trials 
+		<br>
+		
+	</p>
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu" id="menu1" type="button" data-toggle= "dropdown"> Menu 1
+	  <span class="caret"></span></button>
+	  <ul id="menu1dd" class="dropdown-menu"></ul>
+	</div>
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu" id="menu2" type="button" data-toggle= "dropdown"> Menu 2
+	  <span class="caret"></span></button>
+	  <ul id="menu2dd" class="dropdown-menu"></ul>
+	</div>
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu" id="menu3" type="button" data-toggle= "dropdown"> Menu 3
+	  <span class="caret"></span></button>
+	  <ul id="menu3dd" class="dropdown-menu"></ul>
+	</div>
+	
+	<!--
+	<a href="https://forms.gle/zgULwGpF3SpzYeFn9" target="_"><input type="button" value="Experiment Survey"/></a>
+	-->
+	<br><br>
+	<p>
+		<h3>Step 2: Ephemeral Menu</h3>
+		<p>Ephemeral menus will try to predict your choice and <b>highlight</b> it while the other items fade into view.</p>
+		<p>You will be asked to click one of the three <b>Menus</b>.</p>
+		<p>And then select the corresponding <b>Choice</b>.</p>
+
+		<p>Press <input type="button" value="Start" id="MyButton2" > to begin:</p> 
+		<span id="selection2">Menu # >>> Choice</span>
+		<span id="trial2">0</span>
+		/
+		<span id="total2">10</span> 
+		trials
+		<br>
+	</p>
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu copy" id="menu4" type="button" data-toggle= "dropdown"> Menu 4
+	  <span class="caret"></span></button>
+	  <ul id="menu4dd" class="dropdown-menu"></ul>
+	</div>
+
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu copy" id="menu5" type="button" data-toggle= "dropdown"> Menu 5
+	  <span class="caret"></span></button>
+	  <ul id="menu5dd" class="dropdown-menu"></ul>
+	</div>
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu copy" id="menu6" type="button" data-toggle= "dropdown"> Menu 6
+	  <span class="caret"></span></button>
+	  <ul id="menu6dd" class="dropdown-menu"></ul>
+	</div>
+	
+	<br><br>
+	<p>
+		<h3>Step 3: Low Accuracy Ephemeral Menu</h3>
+		<p>This time we're going to see what happens when the predictions are <i>less</i> accurate.</p>
+		<p>You will be asked to click one of the three <b>Menus</b>.</p>
+		<p>And then select the corresponding <b>Choice</b>.</p>
+
+		<p>Press <input type="button" value="Start" id="MyButton3" > to begin:</p> 
+		<span id="selection3">Menu # >>> Choice</span>
+		<span id="trial3">0</span>
+		/
+		<span id="total3">10</span> 
+		trials
+		<br>
+	</p>
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu copy" id="menu7" type="button" data-toggle= "dropdown"> Menu 7
+	  <span class="caret"></span></button>
+	  <ul id="menu7dd" class="dropdown-menu"></ul>
+	</div>
+
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu copy" id="menu8" type="button" data-toggle= "dropdown"> Menu 8
+	  <span class="caret"></span></button>
+	  <ul id="menu8dd" class="dropdown-menu"></ul>
+	</div>
+
+	<div class="dropdown">
+	  <button class="btn btn-info dropdown-toggle menu copy" id="menu9" type="button" data-toggle= "dropdown"> Menu 9
+	  <span class="caret"></span></button>
+	  <ul id="menu9dd" class="dropdown-menu"></ul>
+	</div>
+	<!--
+	<a href="https://forms.gle/zgULwGpF3SpzYeFn9" target="_"><input type="button" value="Experiment Survey"/></a>
+	-->
+	
+	<!--
+	<br> <br><br> <br>
+	Final Step. <br>
+	Please complete this Final Survey only when both Static and Ephemeral Experiments and their survey are done! <br>
+	<a href="https://forms.gle/NCeDYrkbhxx6eKed8" target="_"><input type="button" value="Final Survey"/></a> <br>
+	Make sure to copy the result from console and paste into <a href="https://forms.gle/rcL9VTN3dT5mM3vK6" target="_"><input type="button" value="this"/></a> form before you close this. <br>
+	Thank you!
+	-->
+
+	<br><br>
+	<p>
+		<h3>Step 4: Results</h3>
+		<p>Please paste the following results into the exit survey <a href="https://forms.gle/rcL9VTN3dT5mM3vK6">here</a>.</p>
+		<p>Thank You!</p>
+		<div class = "sres"></div>
+		<div class = "eres"></div>
+		<div class = "eresw"></div>
+	</p>
+
+	
+</body>
+
+</html>

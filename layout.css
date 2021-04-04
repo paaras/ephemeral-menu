@@ -1,0 +1,107 @@
+html 
+{
+	margin-left: 50px;
+}
+
+body {
+    padding-bottom: 500px;
+}
+
+.dropdown 
+{
+	display: inline-block;
+	width: 150px;
+}
+
+.btn 
+{
+	width: 150px;
+}
+
+.ul 
+{
+	width: 150px;
+}
+
+#user_survey 
+{
+	margin-left: 10px;
+}
+	
+#selection1 
+{
+	color: blue;
+	font-size: 17px;
+	margin-left: 40px;
+	font-weight: bold;
+}
+
+#selection2 
+{
+	color: blue;
+	font-size: 17px;
+	margin-left: 40px;
+	font-weight: bold;
+}
+
+#selection3 
+{
+	color: blue;
+	font-size: 17px;
+	margin-left: 40px;
+	font-weight: bold;
+}
+	
+#trial1 
+{
+	color: green;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 150px;
+	margin-right: 10px;
+}
+
+#total1
+{
+	color: red;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#trial2 
+{
+	color: green;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 150px;
+	margin-right: 10px;
+}
+
+#total2
+{
+	color: red;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#trial3 
+{
+	color: green;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 150px;
+	margin-right: 10px;
+}
+
+#total3
+{
+	color: red;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-right: 10px;
+}
