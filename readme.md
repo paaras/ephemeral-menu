@@ -1,7 +1,6 @@
 Ephemeral Adaptation Experiment
 
-Vy Tran
-Paaras Chand
+Vy Tran, Paaras Chand
 
 Requirements
 
