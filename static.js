@@ -60,6 +60,8 @@ $(document).ready(function()
 		} else if (task_count === 10) {
 			stat_results.push("static " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + total_time);
 			$("#selection1").html("Static test complete. Proceed to step 2.");
+			$('.step2').show("slow")
+			$('.step1').hide("slow");
 			printResults(stat_results);								
 		}
         

@@ -89,6 +89,8 @@ $(document).ready(function()
 			} else if (task_count === 10) {
 				ephem_results.push("ephemeral " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
 				$("#selection2").html("Ephemeral test complete. Proceed to step 3.");
+				$('.step3').show('slow');
+				$('.step2').hide('slow');
 				printResults(ephem_results);								
 			}
 		
