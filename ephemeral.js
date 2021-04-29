@@ -64,7 +64,7 @@ $(document).ready(function()
 			var elapsed_time = endtime - starttime;
 			
 
-			if (task_count < 10) {
+			if (task_count < 50) {
 				var menu = Math.round(Math.random()*2);
 				var item = Math.round(Math.random()*15);
 				current_menu = menu;
@@ -86,7 +86,7 @@ $(document).ready(function()
 			
 				$("#selection2").html("Menu " + (current_menu + 1 + 3) + " >>> " + system_select);
 
-			} else if (task_count === 10) {
+			} else if (task_count === 50) {
 				ephem_results.push("ephemeral " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
 				$("#selection2").html("Ephemeral test complete. Proceed to step 3.");
 				$('.step3').show('slow');
@@ -94,7 +94,7 @@ $(document).ready(function()
 				printResults(ephem_results);								
 			}
 		
-		if (task_count <= 10){
+		if (task_count <= 50){
 			$("#trial2").html(task_count);	
 			console.log("ephemeral " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
 			ephem_results.push("ephemeral " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
