@@ -72,7 +72,7 @@ $(document).ready(function()
 			var elapsed_time = endtime - starttime;
 			
 
-			if (task_count < 10) {
+			if (task_count < 50) {
 				var menu = Math.round(Math.random()*2);
 				var item = Math.round(Math.random()*15);
 				current_menu = menu;
@@ -93,7 +93,7 @@ $(document).ready(function()
 			
 				$("#selection3").html("Menu " + (current_menu + 1 + 6) + " >>> " + system_select);
 
-			} else if (task_count === 10) {
+			} else if (task_count === 50) {
 				ephem_results.push("ephemeralw " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
 				$("#selection3").html("Low accuracy ephemeral test complete. Proceed to step 4.");
 				$('.step4').show('slow');
@@ -101,7 +101,7 @@ $(document).ready(function()
 				printResults(ephem_results);								
 			}
 		
-		if (task_count <= 10){
+		if (task_count <= 50){
 			$("#trial3").html(task_count);	
 			console.log("ephemeralw " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
 			ephem_results.push("ephemeralw " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + elapsed_time);
