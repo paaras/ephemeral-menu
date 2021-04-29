@@ -48,7 +48,7 @@ $(document).ready(function()
 		endtime = new Date().getTime();
 		var total_time = endtime - starttime;
 	
-		if (task_count < 10) {
+		if (task_count < 50) {
 			var menu = Math.round(Math.random()*2);
 			var item = Math.round(Math.random()*15);
 			current_menu = menu;
@@ -57,7 +57,7 @@ $(document).ready(function()
 				
 			$("#selection1").html("Menu " + (current_menu + 1) + " >>> " + system_select);
 
-		} else if (task_count === 10) {
+		} else if (task_count === 50) {
 			stat_results.push("static " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + total_time);
 			$("#selection1").html("Static test complete. Proceed to step 2.");
 			$('.step2').show("slow")
@@ -65,7 +65,7 @@ $(document).ready(function()
 			printResults(stat_results);								
 		}
         
-		if (task_count <= 10){
+		if (task_count <= 50){
 			$("#trial1").html(task_count);	
 			console.log("static " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + total_time);
 			stat_results.push("static " + task_count + " " + word_select + " " + user_select.text + " " + correct_word + " " + total_time);
