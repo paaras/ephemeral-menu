@@ -6,7 +6,7 @@ $(document).ready(function()
 	ephem_results = [];
 	var menu_lists = [["Salmon","Tilapia","Catfish","Cod", "Disney","Pixar","DreamWorks","Blue Sky", "Toyota","Honda","Mazda","Nissan", "Mexico","USA","Canada","Cuba"], 
 						["Colgate","Crest","Sensodyne","Pepsodent", "Vizio","Samsung","LG","Sony", "Amazon","Google","Facebook","Apple", "Red","Orange","Yellow","Green"],
-						["NASA","SpaceX","Blue Origin","Boeing", "Stanford","SJSU","Santa Clara University","UCSC", "Goodyear","Michelin","Continental","Yokohama","BMW","Lexus","Mercedes-Benz","Audi"]];
+						["NASA","SpaceX","Nio","Boeing", "Stanford","SJSU","Davis","UCSC", "Goodyear","Michelin","Continental","Yokohama","BMW","Lexus","Tesla","Audi"]];
 
 	
 	//Assign menu item to the drop down
