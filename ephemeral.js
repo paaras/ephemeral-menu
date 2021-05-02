@@ -5,7 +5,7 @@ $(document).ready(function()
 	$("#trial2").html(0);
 	ephem_results = [];
 	var menu_lists = [["Sad","Happy","Angry","Excited", "Hearts","Spades","Diamonds","Clubs", "Apple","Strawberry","Pear","Mango", "Goat","Cat","Dog","Rabbit"], 
-						["San Francisco","San Jose","San Diego","San Bernardino", "Santa Clara","Santa Cruz","Santa Ana","Santa Barbara", "Chino Hills","El Dorado Hills","Beverly Hills","Laguna Hills", "Los Angeles", "Los Banos", "Los Gatos", "Los Altos"],
+						["SF","San Jose","San Diego","Cali", "Monterey","Milpitas","Oakland","Barbara", "Car","Computer","Bicycle","Bus", "Airplane", "Motocycle", "Cano", "Boot"],
 						["California","Oregon","Washington","Nevada", "Arizona","Texas","New Mexico","Oklahoma", "Florida","Georgia","South Carolina","Alabama", "New York","Pennsylvania","New Jersey","Connecticut"]];
 
 	
