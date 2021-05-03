@@ -1,0 +1,299 @@
+static 1 Germany Germany true 4378
+
+static 2 Fries Fries true 5279
+
+static 3 Shrimp Shrimp true 3267
+
+static 4 Beef Beef true 3476
+
+static 5 Soup Soup true 4532
+
+static 6 Alcohol Alcohol true 24958
+
+static 7 Tomato Tomato true 2840
+
+static 8 Shrimp Shrimp true 4045
+
+static 9 Espresso Espresso true 4300
+
+static 10 Sushi Sushi true 5198
+
+static 11 Italy Italy true 3168
+
+static 12 Apple Apple true 4582
+
+static 13 Chicken Chicken true 4460
+
+static 14 Rice Rice true 3353
+
+static 15 Germany Germany true 2761
+
+static 16 Garlic Garlic true 2462
+
+static 17 Alcohol Alcohol true 2499
+
+static 18 India India true 3067
+
+static 19 Pizza Pizza true 5267
+
+static 20 Steak Steak true 5776
+
+static 21 Noodle Noodle true 3373
+
+static 22 Macchiato Macchiato true 3167
+
+static 23 Germany Germany true 5381
+
+static 24 Macchiato Macchiato true 4881
+
+static 25 Macchiato Macchiato true 4276
+
+static 26 Hotpot Hotpot true 3108
+
+static 27 Milk Milk true 2491
+
+static 28 Coffee Coffee true 4494
+
+static 29 Chicken Chicken true 4429
+
+static 30 Cheddar Cheddar true 3971
+
+static 31 Noodle Noodle true 10004
+
+static 32 Espresso Espresso true 5148
+
+static 33 Steak Steak true 5232
+
+static 34 Alcohol Alcohol true 6720
+
+static 35 India India true 3076
+
+static 36 Sandwiches Sandwiches true 3351
+
+static 37 Lamp Lamp true 6181
+
+static 38 Alcohol Alcohol true 6132
+
+static 39 Alcohol Alcohol true 3310
+
+static 40 Coffee Coffee true 4326
+
+static 41 France France true 5221
+
+static 42 Japan Japan true 3310
+
+static 43 Sushi Sushi true 5922
+
+static 44 Milk Milk true 2044
+
+static 45 Shrimp Shrimp true 2596
+
+static 46 Apple Apple true 3028
+
+static 47 Sushi Sushi true 4600
+
+static 48 India India true 2879
+
+static 49 Noodle Noodle true 3673
+
+static 50 Korea Korea true 2806
+
+ephemeral 1 Dog Dog true 3968
+
+ephemeral 2 Connecticut Connecticut true 4511
+
+ephemeral 3 Santa Clara Santa Clara true 3551
+
+ephemeral 4 Los Altos Los Altos true 4488
+
+ephemeral 5 Mango Mango true 2999
+
+ephemeral 6 Beverly Hills Beverly Hills true 4721
+
+ephemeral 7 Santa Ana Santa Ana true 3197
+
+ephemeral 8 San Bernardino San Bernardino true 3504
+
+ephemeral 9 Dog Dog true 4705
+
+ephemeral 10 Hearts Hearts true 3451
+
+ephemeral 11 Texas Texas true 3187
+
+ephemeral 12 Los Angeles Santa Ana false 2300
+
+ephemeral 13 Chino Hills Chino Hills true 3964
+
+ephemeral 14 New York New York true 4834
+
+ephemeral 15 Los Altos Los Altos true 4512
+
+ephemeral 16 San Bernardino San Bernardino true 4028
+
+ephemeral 17 Santa Clara Santa Clara true 2697
+
+ephemeral 18 Arizona Arizona true 2871
+
+ephemeral 19 San Jose San Jose true 3955
+
+ephemeral 20 San Jose San Jose true 2354
+
+ephemeral 21 Hearts Hearts true 1956
+
+ephemeral 22 New Mexico New Mexico true 6326
+
+ephemeral 23 San Diego San Diego true 4576
+
+ephemeral 24 El Dorado Hills El Dorado Hills true 3230
+
+ephemeral 25 El Dorado Hills El Dorado Hills true 2629
+
+ephemeral 26 Chino Hills Chino Hills true 3967
+
+ephemeral 27 Arizona Arizona true 5980
+
+ephemeral 28 Los Banos Los Banos true 3915
+
+ephemeral 29 Santa Clara Santa Clara true 2863
+
+ephemeral 30 Georgia Georgia true 2802
+
+ephemeral 31 New York New York true 4205
+
+ephemeral 32 Los Altos Los Altos true 3581
+
+ephemeral 33 Santa Barbara Santa Barbara true 3253
+
+ephemeral 34 Los Gatos Los Gatos true 5005
+
+ephemeral 35 Excited Excited true 2619
+
+ephemeral 36 Goat Goat true 8900
+
+ephemeral 37 Nevada Nevada true 3516
+
+ephemeral 38 Santa Ana Santa Ana true 3065
+
+ephemeral 39 San Jose San Jose true 7353
+
+ephemeral 40 Los Banos Los Banos true 3440
+
+ephemeral 41 Santa Barbara Santa Barbara true 3306
+
+ephemeral 42 Hearts Hearts true 2440
+
+ephemeral 43 Happy Happy true 3064
+
+ephemeral 44 Los Altos Los Altos true 5415
+
+ephemeral 45 Happy Happy true 2270
+
+ephemeral 46 Laguna Hills Laguna Hills true 4858
+
+ephemeral 47 San Diego San Diego true 2972
+
+ephemeral 48 Oklahoma Oklahoma true 4996
+
+ephemeral 49 Clubs Clubs true 4342
+
+ephemeral 50 Dog Dog true 3795
+
+ephemeralw 1 Blue Origin Blue Origin true 5622
+
+ephemeralw 2 SJSU SJSU true 4197
+
+ephemeralw 3 Apple Apple true 3915
+
+ephemeralw 4 Facebook Facebook true 5379
+
+ephemeralw 5 Cod Cod true 5375
+
+ephemeralw 6 Red Red true 3411
+
+ephemeralw 7 Facebook Facebook true 5456
+
+ephemeralw 8 Stanford Stanford true 3012
+
+ephemeralw 9 Pepsodent Pepsodent true 2738
+
+ephemeralw 10 Yokohama Yokohama true 5496
+
+ephemeralw 11 Yokohama Yokohama true 3593
+
+ephemeralw 12 Canada Canada true 8169
+
+ephemeralw 13 SpaceX SpaceX true 4444
+
+ephemeralw 14 Google Google true 2689
+
+ephemeralw 15 BMW BMW true 3755
+
+ephemeralw 16 Continental Continental true 6375
+
+ephemeralw 17 SJSU SJSU true 5132
+
+ephemeralw 18 Sony Sony true 3440
+
+ephemeralw 19 Amazon Amazon true 3149
+
+ephemeralw 20 Sensodyne Sensodyne true 3315
+
+ephemeralw 21 Sensodyne Sensodyne true 1875
+
+ephemeralw 22 Red Red true 3363
+
+ephemeralw 23 Vizio Vizio true 3746
+
+ephemeralw 24 Cod Cod true 2835
+
+ephemeralw 25 Michelin Michelin true 3016
+
+ephemeralw 26 LG LG true 4069
+
+ephemeralw 27 Honda Honda true 3213
+
+ephemeralw 28 USA USA true 2299
+
+ephemeralw 29 Pepsodent Pepsodent true 3298
+
+ephemeralw 30 Sensodyne Pepsodent false 2256
+
+ephemeralw 31 Mercedes-Benz Mercedes-Benz true 4075
+
+ephemeralw 32 Facebook Facebook true 4932
+
+ephemeralw 33 Pepsodent Pepsodent true 2578
+
+ephemeralw 34 Samsung Samsung true 3678
+
+ephemeralw 35 Toyota Toyota true 5270
+
+ephemeralw 36 Santa Clara University Santa Clara University true 3095
+
+ephemeralw 37 Blue Sky Blue Sky true 3245
+
+ephemeralw 38 Sensodyne Sensodyne true 3605
+
+ephemeralw 39 Toyota Toyota true 2609
+
+ephemeralw 40 Yellow Yellow true 3424
+
+ephemeralw 41 UCSC UCSC true 3556
+
+ephemeralw 42 Sony Sony true 3227
+
+ephemeralw 43 Tilapia Tilapia true 4262
+
+ephemeralw 44 UCSC UCSC true 3203
+
+ephemeralw 45 Mexico Mexico true 5734
+
+ephemeralw 46 Disney Disney true 3936
+
+ephemeralw 47 Colgate Colgate true 3311
+
+ephemeralw 48 Pepsodent Pepsodent true 5004
+
+ephemeralw 49 Mexico Mexico true 3102
+
+ephemeralw 50 Facebook Facebook true 3912

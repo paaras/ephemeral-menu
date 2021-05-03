@@ -1,0 +1,299 @@
+static 1 Sandwiches Sandwiches true 4246
+
+static 2 Cheddar Cheddar true 2224
+
+static 3 Garlic Garlic true 5058
+
+static 4 Tomato Tomato true 2308
+
+static 5 Macchiato Macchiato true 3613
+
+static 6 Soup Soup true 2981
+
+static 7 Sushi Sushi true 2052
+
+static 8 Lemon Lemon true 2380
+
+static 9 Steak Steak true 2553
+
+static 10 Espresso Espresso true 3235
+
+static 11 Lobster Lobster true 2323
+
+static 12 Macchiato Macchiato true 2969
+
+static 13 Coffee Coffee true 2720
+
+static 14 Juice Juice true 2928
+
+static 15 Milk Milk true 2022
+
+static 16 Soup Soup true 2355
+
+static 17 Fries Fries true 3671
+
+static 18 Oyster Oyster true 7377
+
+static 19 Curry Curry true 3792
+
+static 20 Pasta Pasta true 5058
+
+static 21 Korea Korea true 4274
+
+static 22 Alcohol Alcohol true 2948
+
+static 23 Coffee Coffee true 2634
+
+static 24 Pizza Pizza true 3468
+
+static 25 Alcohol Alcohol true 5136
+
+static 26 Espresso Espresso true 3738
+
+static 27 Italy Italy true 3076
+
+static 28 Cheddar Cheddar true 2006
+
+static 29 Cheddar Cheddar true 2446
+
+static 30 Sushi Sushi true 2222
+
+static 31 Chicken Chicken true 4830
+
+static 32 Rice Rice true 1764
+
+static 33 Rice Rice true 1514
+
+static 34 Tomato Tomato true 3738
+
+static 35 Sandwiches Sandwiches true 2480
+
+static 36 Salmon Salmon true 4048
+
+static 37 Fries Fries true 3090
+
+static 38 Hamburger Hamburger true 2582
+
+static 39 Cheddar Cheddar true 1840
+
+static 40 Milk Milk true 1814
+
+static 41 Noodle Noodle true 3148
+
+static 42 Soup Soup true 2158
+
+static 43 Cheddar Cheddar true 4804
+
+static 44 Noodle Noodle true 1874
+
+static 45 Noodle Noodle true 1684
+
+static 46 Garlic Garlic true 3962
+
+static 47 Garlic Garlic true 2160
+
+static 48 Oyster Oyster true 3540
+
+static 49 Alcohol Alcohol true 2758
+
+static 50 Pasta Pasta true 2116
+
+ephemeral 1 New York New York true 3408
+
+ephemeral 2 Santa Barbara Santa Barbara true 2546
+
+ephemeral 3 Spades Spades true 1946
+
+ephemeral 4 Los Angeles Los Angeles true 2386
+
+ephemeral 5 Los Banos Los Banos true 3106
+
+ephemeral 6 San Bernardino San Bernardino true 2364
+
+ephemeral 7 Santa Barbara Santa Barbara true 2394
+
+ephemeral 8 Alabama Alabama true 4108
+
+ephemeral 9 Texas Texas true 2492
+
+ephemeral 10 Clubs Clubs true 1974
+
+ephemeral 11 Santa Ana Santa Ana true 2626
+
+ephemeral 12 El Dorado Hills El Dorado Hills true 2766
+
+ephemeral 13 Rabbit Rabbit true 3038
+
+ephemeral 14 Los Banos Los Banos true 2670
+
+ephemeral 15 Los Angeles Los Angeles true 2670
+
+ephemeral 16 California California true 4720
+
+ephemeral 17 San Bernardino San Bernardino true 1970
+
+ephemeral 18 Santa Clara Santa Clara true 1747
+
+ephemeral 19 Alabama Alabama true 2771
+
+ephemeral 20 Chino Hills Chino Hills true 2300
+
+ephemeral 21 New Mexico New Mexico true 2750
+
+ephemeral 22 El Dorado Hills El Dorado Hills true 2735
+
+ephemeral 23 Chino Hills Chino Hills true 2569
+
+ephemeral 24 Nevada Nevada true 2388
+
+ephemeral 25 Sad Sad true 2142
+
+ephemeral 26 Los Angeles Los Angeles true 2578
+
+ephemeral 27 Apple Apple true 2002
+
+ephemeral 28 Cat Cat true 1983
+
+ephemeral 29 Los Altos Los Altos true 4665
+
+ephemeral 30 Laguna Hills Laguna Hills true 2472
+
+ephemeral 31 San Francisco San Francisco true 3262
+
+ephemeral 32 Arizona Arizona true 2476
+
+ephemeral 33 Santa Cruz Santa Cruz true 2163
+
+ephemeral 34 San Diego San Diego true 2067
+
+ephemeral 35 El Dorado Hills El Dorado Hills true 2045
+
+ephemeral 36 Florida Florida true 2477
+
+ephemeral 37 San Bernardino San Bernardino true 2897
+
+ephemeral 38 Cat Cat true 2560
+
+ephemeral 39 Laguna Hills Laguna Hills true 2460
+
+ephemeral 40 Cat Cat true 2289
+
+ephemeral 41 Connecticut Connecticut true 4292
+
+ephemeral 42 Cat Cat true 2544
+
+ephemeral 43 Laguna Hills Laguna Hills true 2216
+
+ephemeral 44 Hearts Hearts true 2287
+
+ephemeral 45 Goat Goat true 2231
+
+ephemeral 46 Los Angeles Los Angeles true 2230
+
+ephemeral 47 San Bernardino San Bernardino true 2176
+
+ephemeral 48 San Bernardino San Bernardino true 1804
+
+ephemeral 49 San Diego San Diego true 2520
+
+ephemeral 50 Beverly Hills Beverly Hills true 2666
+
+ephemeralw 1 Facebook Facebook true 3755
+
+ephemeralw 2 Mazda Mazda true 3476
+
+ephemeralw 3 Apple Apple true 3428
+
+ephemeralw 4 Mazda Mazda true 3684
+
+ephemeralw 5 Honda Honda true 3032
+
+ephemeralw 6 Apple Apple true 3886
+
+ephemeralw 7 Canada Canada true 3222
+
+ephemeralw 8 Mazda Mazda true 3460
+
+ephemeralw 9 Stanford Stanford true 3788
+
+ephemeralw 10 Honda Honda true 2808
+
+ephemeralw 11 Apple Apple true 4044
+
+ephemeralw 12 Mexico Mexico true 6486
+
+ephemeralw 13 Toyota Toyota true 2300
+
+ephemeralw 14 Lexus Lexus true 5934
+
+ephemeralw 15 Yellow Yellow true 3596
+
+ephemeralw 16 Cod Cod true 2255
+
+ephemeralw 17 Mercedes-Benz Mercedes-Benz true 3839
+
+ephemeralw 18 USA USA true 2605
+
+ephemeralw 19 Canada Canada true 3616
+
+ephemeralw 20 Google Google true 3346
+
+ephemeralw 21 Crest Crest true 2932
+
+ephemeralw 22 Sony Sony true 4116
+
+ephemeralw 23 Toyota Toyota true 2850
+
+ephemeralw 24 LG LG true 2468
+
+ephemeralw 25 Orange Orange true 3404
+
+ephemeralw 26 Cuba Cuba true 3660
+
+ephemeralw 27 Amazon Amazon true 3688
+
+ephemeralw 28 Mercedes-Benz Mercedes-Benz true 3456
+
+ephemeralw 29 Boeing Boeing true 3286
+
+ephemeralw 30 Nissan Nissan true 3246
+
+ephemeralw 31 Red Red true 3018
+
+ephemeralw 32 Stanford Stanford true 2650
+
+ephemeralw 33 SpaceX SpaceX true 3258
+
+ephemeralw 34 Red Red true 3000
+
+ephemeralw 35 Tilapia Tilapia true 3390
+
+ephemeralw 36 Orange Orange true 2667
+
+ephemeralw 37 LG LG true 2962
+
+ephemeralw 38 Green Green true 4306
+
+ephemeralw 39 Pepsodent Pepsodent true 3095
+
+ephemeralw 40 Boeing Boeing true 2376
+
+ephemeralw 41 Red Red true 6024
+
+ephemeralw 42 Honda Honda true 2572
+
+ephemeralw 43 Mercedes-Benz Mercedes-Benz true 2642
+
+ephemeralw 44 Mexico Mexico true 5214
+
+ephemeralw 45 Mercedes-Benz Mercedes-Benz true 2892
+
+ephemeralw 46 Red Red true 2779
+
+ephemeralw 47 Sensodyne Sensodyne true 3737
+
+ephemeralw 48 DreamWorks DreamWorks true 3048
+
+ephemeralw 49 SpaceX SpaceX true 4591
+
+ephemeralw 50 Samsung Samsung true 5487

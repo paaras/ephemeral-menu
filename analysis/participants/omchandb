@@ -1,0 +1,299 @@
+static 1 Germany Germany true 2988
+
+static 2 Sushi Sushi true 18262
+
+static 3 Hotpot Hotpot true 2860
+
+static 4 Noodle Noodle true 2009
+
+static 5 Milk Milk true 2951
+
+static 6 Summer Summer true 5806
+
+static 7 Pizza Pizza true 3113
+
+static 8 Shrimp Shrimp true 3938
+
+static 9 Summer Summer true 4325
+
+static 10 Japan Japan true 2611
+
+static 11 Coffee Coffee true 3452
+
+static 12 Curry Curry true 3230
+
+static 13 France France true 2938
+
+static 14 Noodle Noodle true 2380
+
+static 15 Fries Fries true 2347
+
+static 16 Lamp Lamp true 4604
+
+static 17 Sandwiches Sandwiches true 4930
+
+static 18 Spain Spain true 2922
+
+static 19 Soup Soup true 4128
+
+static 20 Cheddar Cheddar true 4465
+
+static 21 Japan Japan true 2726
+
+static 22 Cheddar Cheddar true 2792
+
+static 23 Spring Spring true 5125
+
+static 24 Chicken Chicken true 3328
+
+static 25 Tomato Tomato true 2199
+
+static 26 Korea Korea true 3360
+
+static 27 Alcohol Alcohol true 2536
+
+static 28 Espresso Espresso true 3109
+
+static 29 Japan Japan true 2706
+
+static 30 Rice Rice true 2531
+
+static 31 Steak Steak true 5171
+
+static 32 Coffee Coffee true 3721
+
+static 33 Lobster Lobster true 5339
+
+static 34 Milk Milk true 2001
+
+static 35 Soup Soup true 4047
+
+static 36 Curry Curry true 3843
+
+static 37 Banana Banana true 7297
+
+static 38 Hamburger Hamburger true 6170
+
+static 39 Cheddar Cheddar true 2788
+
+static 40 Italy Italy true 2912
+
+static 41 Juice Juice true 2331
+
+static 42 Chicken Chicken true 3223
+
+static 43 Milk Milk true 2385
+
+static 44 Shrimp Shrimp true 4927
+
+static 45 Pasta Pasta true 2429
+
+static 46 Steak Steak true 5367
+
+static 47 Tomato Tomato true 3742
+
+static 48 Carrot Carrot true 2793
+
+static 49 India India true 2909
+
+static 50 Juice Juice true 2588
+
+ephemeral 1 Los Gatos Los Gatos true 3515
+
+ephemeral 2 Los Gatos Los Gatos true 2695
+
+ephemeral 3 San Francisco San Francisco true 6070
+
+ephemeral 4 Mango Mango true 3165
+
+ephemeral 5 Happy Happy true 4070
+
+ephemeral 6 San Francisco San Francisco true 4096
+
+ephemeral 7 Santa Ana Santa Ana true 2783
+
+ephemeral 8 Georgia Georgia true 4124
+
+ephemeral 9 Los Gatos Los Gatos true 3371
+
+ephemeral 10 Happy Happy true 3598
+
+ephemeral 11 Oregon Oregon true 4385
+
+ephemeral 12 Dog Dog true 3180
+
+ephemeral 13 Goat Goat true 2317
+
+ephemeral 14 Arizona Arizona true 3610
+
+ephemeral 15 Santa Ana Santa Ana true 2144
+
+ephemeral 16 Mango Mango true 2339
+
+ephemeral 17 Hearts Hearts true 2563
+
+ephemeral 18 Laguna Hills Laguna Hills true 3609
+
+ephemeral 19 New Mexico New Mexico true 2361
+
+ephemeral 20 Dog Dog true 2884
+
+ephemeral 21 Alabama Alabama true 5871
+
+ephemeral 22 Los Altos Los Altos true 3539
+
+ephemeral 23 San Francisco San Francisco true 3519
+
+ephemeral 24 Santa Cruz Santa Cruz true 2489
+
+ephemeral 25 Beverly Hills Beverly Hills true 2815
+
+ephemeral 26 Santa Cruz Santa Cruz true 2597
+
+ephemeral 27 Laguna Hills Laguna Hills true 7324
+
+ephemeral 28 Alabama Alabama true 3209
+
+ephemeral 29 Santa Barbara Santa Barbara true 3285
+
+ephemeral 30 Rabbit Rabbit true 4242
+
+ephemeral 31 Beverly Hills Beverly Hills true 11624
+
+ephemeral 32 Diamonds Diamonds true 3219
+
+ephemeral 33 San Diego San Diego true 3092
+
+ephemeral 34 San Bernardino San Bernardino true 3244
+
+ephemeral 35 Happy Happy true 3978
+
+ephemeral 36 Excited Excited true 3728
+
+ephemeral 37 Los Gatos Los Gatos true 2826
+
+ephemeral 38 Los Angeles Los Angeles true 3059
+
+ephemeral 39 New York New York true 3025
+
+ephemeral 40 San Diego San Diego true 3688
+
+ephemeral 41 Connecticut Connecticut true 6238
+
+ephemeral 42 Texas Texas true 3282
+
+ephemeral 43 Hearts Hearts true 3131
+
+ephemeral 44 Dog Dog true 3168
+
+ephemeral 45 Los Altos Los Altos true 3307
+
+ephemeral 46 Chino Hills Chino Hills true 2310
+
+ephemeral 47 Los Angeles Los Angeles true 2317
+
+ephemeral 48 Nevada Nevada true 2860
+
+ephemeral 49 San Diego San Diego true 3724
+
+ephemeral 50 Los Banos Los Banos true 2483
+
+ephemeralw 1 Disney Disney true 3363
+
+ephemeralw 2 LG LG true 2511
+
+ephemeralw 3 Pixar Pixar true 3423
+
+ephemeralw 4 USA USA true 2340
+
+ephemeralw 5 Cod Cod true 2532
+
+ephemeralw 6 BMW BMW true 3507
+
+ephemeralw 7 Orange Orange true 5576
+
+ephemeralw 8 Boeing Boeing true 3739
+
+ephemeralw 9 Pepsodent Pepsodent true 4697
+
+ephemeralw 10 SpaceX SpaceX true 3497
+
+ephemeralw 11 Nissan Nissan true 2820
+
+ephemeralw 12 LG LG true 3131
+
+ephemeralw 13 Audi Audi true 5597
+
+ephemeralw 14 Lexus Lexus true 3624
+
+ephemeralw 15 Blue Origin Blue Origin true 4012
+
+ephemeralw 16 Red Red true 4006
+
+ephemeralw 17 UCSC UCSC true 2752
+
+ephemeralw 18 Crest Crest true 4720
+
+ephemeralw 19 Amazon Amazon true 3607
+
+ephemeralw 20 Lexus Lexus true 3424
+
+ephemeralw 21 Catfish Catfish true 3947
+
+ephemeralw 22 Green Green true 4272
+
+ephemeralw 23 LG LG true 2484
+
+ephemeralw 24 Sony Sony true 2032
+
+ephemeralw 25 Blue Origin Blue Origin true 3325
+
+ephemeralw 26 Red Red true 2802
+
+ephemeralw 27 Crest Crest true 2959
+
+ephemeralw 28 USA USA true 3014
+
+ephemeralw 29 Sony Sony true 2970
+
+ephemeralw 30 Amazon Amazon true 2491
+
+ephemeralw 31 Tilapia Tilapia true 4028
+
+ephemeralw 32 Facebook Facebook true 2881
+
+ephemeralw 33 Mazda Mazda true 2724
+
+ephemeralw 34 Tilapia Tilapia true 4511
+
+ephemeralw 35 Apple Apple true 3521
+
+ephemeralw 36 Sensodyne Sensodyne true 2922
+
+ephemeralw 37 Stanford Stanford true 6777
+
+ephemeralw 38 Google Google true 5903
+
+ephemeralw 39 Yellow Yellow true 3433
+
+ephemeralw 40 Orange Orange true 3968
+
+ephemeralw 41 Google Google true 4030
+
+ephemeralw 42 Green Green true 3908
+
+ephemeralw 43 Apple Apple true 3595
+
+ephemeralw 44 Samsung Samsung true 3795
+
+ephemeralw 45 Amazon Amazon true 3873
+
+ephemeralw 46 UCSC UCSC true 2822
+
+ephemeralw 47 Michelin Michelin true 3948
+
+ephemeralw 48 SJSU SJSU true 4135
+
+ephemeralw 49 Colgate Colgate true 5700
+
+ephemeralw 50 Red Red true 3095

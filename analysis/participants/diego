@@ -1,0 +1,299 @@
+static 1 Juice Juice true 2638
+
+static 2 Cappuccino Cappuccino true 4745
+
+static 3 Cappuccino Cappuccino true 3610
+
+static 4 Coffee Coffee true 4384
+
+static 5 Spain Spain true 3579
+
+static 6 Lemon Lemon true 3060
+
+static 7 Pasta Pasta true 4855
+
+static 8 Cheddar Cheddar true 1940
+
+static 9 Onion Onion true 4706
+
+static 10 Salmon Salmon true 2988
+
+static 11 Sandwiches Sandwiches true 3814
+
+static 12 Espresso Espresso true 5142
+
+static 13 Milk Milk true 3998
+
+static 14 Summer Summer true 5718
+
+static 15 Pizza Pizza true 4249
+
+static 16 Sushi Sushi true 3076
+
+static 17 Coffee Coffee true 3395
+
+static 18 Alcohol Alcohol true 5037
+
+static 19 Juice Juice true 3250
+
+static 20 Chicken Chicken true 3798
+
+static 21 Thailand Thailand true 3403
+
+static 22 Italy Italy true 3416
+
+static 23 Hamburger Hamburger true 3074
+
+static 24 Coffee Coffee true 3395
+
+static 25 Pizza Pizza true 2929
+
+static 26 Milk Milk true 3126
+
+static 27 Winter Winter true 3195
+
+static 28 Pork Pork true 3484
+
+static 29 Sandwiches Sandwiches true 5692
+
+static 30 Shrimp Shrimp true 5273
+
+static 31 Macchiato Macchiato true 4299
+
+static 32 Sandwiches Sandwiches true 3718
+
+static 33 Pasta Pasta true 5668
+
+static 34 Cheddar Cheddar true 3356
+
+static 35 Apple Apple true 4298
+
+static 36 Chicken Chicken true 5363
+
+static 37 Banana Banana true 4718
+
+static 38 Japan Japan true 4314
+
+static 39 Cappuccino Cappuccino true 4243
+
+static 40 Hotpot Hotpot true 5488
+
+static 41 Macchiato Macchiato true 3340
+
+static 42 Espresso Espresso true 3490
+
+static 43 Noodle Noodle true 4658
+
+static 44 Hotpot Hotpot true 3203
+
+static 45 Chicken Chicken true 3582
+
+static 46 Coffee Coffee true 4838
+
+static 47 Shrimp Shrimp true 5709
+
+static 48 Korea Korea true 6787
+
+static 49 Apple Apple true 4122
+
+static 50 Lobster Lobster true 4890
+
+ephemeral 1 Diamonds Diamonds true 4432
+
+ephemeral 2 Happy Happy true 4000
+
+ephemeral 3 Texas Texas true 3339
+
+ephemeral 4 Oregon Oregon true 3767
+
+ephemeral 5 El Dorado Hills El Dorado Hills true 3686
+
+ephemeral 6 Santa Cruz Santa Cruz true 3288
+
+ephemeral 7 Mango Mango true 3791
+
+ephemeral 8 New Jersey New Jersey true 5942
+
+ephemeral 9 Angry Angry true 3453
+
+ephemeral 10 San Jose San Jose true 4798
+
+ephemeral 11 Happy Happy true 4484
+
+ephemeral 12 Laguna Hills Laguna Hills true 4686
+
+ephemeral 13 Los Gatos Los Gatos true 3896
+
+ephemeral 14 San Francisco San Francisco true 5597
+
+ephemeral 15 San Francisco San Francisco true 2421
+
+ephemeral 16 Santa Cruz Santa Cruz true 2905
+
+ephemeral 17 Clubs Clubs true 3570
+
+ephemeral 18 Los Banos Los Banos true 4195
+
+ephemeral 19 Goat Goat true 3928
+
+ephemeral 20 San Diego San Diego true 4057
+
+ephemeral 21 Happy Happy true 2859
+
+ephemeral 22 Florida Florida true 3897
+
+ephemeral 23 Santa Clara Santa Clara true 3199
+
+ephemeral 24 Texas Texas true 18577
+
+ephemeral 25 Los Angeles Los Angeles true 8712
+
+ephemeral 26 Chino Hills Chino Hills true 2628
+
+ephemeral 27 Washington Washington true 4138
+
+ephemeral 28 Oklahoma Oklahoma true 2640
+
+ephemeral 29 Los Angeles Los Angeles true 2939
+
+ephemeral 30 Chino Hills Chino Hills true 5744
+
+ephemeral 31 Dog Dog true 3385
+
+ephemeral 32 Apple Apple true 2737
+
+ephemeral 33 Sad Sad true 3906
+
+ephemeral 34 Cat Cat true 3063
+
+ephemeral 35 Georgia Georgia true 3358
+
+ephemeral 36 El Dorado Hills El Dorado Hills true 3995
+
+ephemeral 37 Chino Hills Chino Hills true 2769
+
+ephemeral 38 Texas Texas true 2782
+
+ephemeral 39 Beverly Hills Beverly Hills true 2970
+
+ephemeral 40 San Bernardino San Bernardino true 2881
+
+ephemeral 41 Excited Excited true 2919
+
+ephemeral 42 Chino Hills Chino Hills true 2970
+
+ephemeral 43 San Jose San Jose true 5890
+
+ephemeral 44 Georgia Georgia true 2802
+
+ephemeral 45 Florida Florida true 3543
+
+ephemeral 46 Los Angeles Los Angeles true 3192
+
+ephemeral 47 Santa Cruz Santa Cruz true 2528
+
+ephemeral 48 Laguna Hills Laguna Hills true 4228
+
+ephemeral 49 Santa Barbara Santa Barbara true 4543
+
+ephemeral 50 Oklahoma Oklahoma true 6615
+
+ephemeralw 1 Michelin Michelin true 4013
+
+ephemeralw 2 Sensodyne Sensodyne true 3792
+
+ephemeralw 3 Yellow Yellow true 3769
+
+ephemeralw 4 Facebook Facebook true 7054
+
+ephemeralw 5 DreamWorks DreamWorks true 3152
+
+ephemeralw 6 Catfish Catfish true 3302
+
+ephemeralw 7 Red Red true 3471
+
+ephemeralw 8 Cod Cod true 4897
+
+ephemeralw 9 Santa Clara University Santa Clara University true 2725
+
+ephemeralw 10 Continental Continental true 4157
+
+ephemeralw 11 Apple Apple true 4019
+
+ephemeralw 12 Cod Cod true 3439
+
+ephemeralw 13 Yellow Yellow true 6967
+
+ephemeralw 14 Apple Apple true 3378
+
+ephemeralw 15 Apple Apple true 2890
+
+ephemeralw 16 Blue Sky Blue Sky true 4358
+
+ephemeralw 17 Cuba Cuba true 4802
+
+ephemeralw 18 Michelin Michelin true 4652
+
+ephemeralw 19 Mercedes-Benz Mercedes-Benz true 4100
+
+ephemeralw 20 Yokohama Yokohama true 3753
+
+ephemeralw 21 Amazon Amazon true 2988
+
+ephemeralw 22 Lexus Lexus true 4439
+
+ephemeralw 23 USA USA true 3189
+
+ephemeralw 24 Pepsodent Pepsodent true 3790
+
+ephemeralw 25 Blue Origin Blue Origin true 4600
+
+ephemeralw 26 Sony Sony true 4649
+
+ephemeralw 27 Michelin Michelin true 2640
+
+ephemeralw 28 USA USA true 3061
+
+ephemeralw 29 Disney Disney true 4595
+
+ephemeralw 30 Nissan Nissan true 3440
+
+ephemeralw 31 Google Google true 3810
+
+ephemeralw 32 LG LG true 2495
+
+ephemeralw 33 Pixar Pixar true 4097
+
+ephemeralw 34 Amazon Amazon true 2697
+
+ephemeralw 35 Disney Disney true 2463
+
+ephemeralw 36 Stanford Stanford true 3114
+
+ephemeralw 37 Continental Continental true 3197
+
+ephemeralw 38 Santa Clara University Santa Clara University true 3003
+
+ephemeralw 39 UCSC UCSC true 4686
+
+ephemeralw 40 Blue Sky Blue Sky true 3035
+
+ephemeralw 41 Disney Disney true 3480
+
+ephemeralw 42 Samsung Samsung true 3778
+
+ephemeralw 43 Continental Continental true 4205
+
+ephemeralw 44 Honda Honda true 3033
+
+ephemeralw 45 Google Google true 3165
+
+ephemeralw 46 Pepsodent Pepsodent true 3512
+
+ephemeralw 47 Vizio Vizio true 2443
+
+ephemeralw 48 Facebook Facebook true 2754
+
+ephemeralw 49 Yellow Yellow true 2444
+
+ephemeralw 50 Apple Apple true 3584

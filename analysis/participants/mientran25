@@ -1,0 +1,299 @@
+static 1 Hamburger Hamburger true 4466
+
+static 2 Lemon Lemon true 4003
+
+static 3 Tomato Tomato true 2860
+
+static 4 Cheddar Cheddar true 3038
+
+static 5 Espresso Espresso true 4632
+
+static 6 Coffee Coffee true 3989
+
+static 7 Sandwiches Sandwiches true 3963
+
+static 8 Rice Rice true 4416
+
+static 9 Tomato Tomato true 2220
+
+static 10 Juice Juice true 3102
+
+static 11 Pasta Pasta true 3253
+
+static 12 Milk Milk true 3294
+
+static 13 Juice Juice true 3240
+
+static 14 Soup Soup true 3278
+
+static 15 Cheddar Cheddar true 3138
+
+static 16 Espresso Espresso true 4816
+
+static 17 Coffee Coffee true 4044
+
+static 18 Cheddar Cheddar true 2256
+
+static 19 Italy Italy true 3610
+
+static 20 Cheddar Cheddar true 4644
+
+static 21 Rice Rice true 4432
+
+static 22 Cappuccino Cappuccino true 5558
+
+static 23 Korea Korea true 4526
+
+static 24 Tomato Tomato true 2154
+
+static 25 Soup Soup true 2844
+
+static 26 Milk Milk true 2338
+
+static 27 Banana Banana true 6875
+
+static 28 Macchiato Macchiato true 3409
+
+static 29 Curry Curry true 3912
+
+static 30 Fries Fries true 3912
+
+static 31 Steak Steak true 4628
+
+static 32 Sandwiches Sandwiches true 3864
+
+static 33 Fries Fries true 3126
+
+static 34 Sandwiches Sandwiches true 2787
+
+static 35 Soup Soup true 5758
+
+static 36 Summer Summer true 5053
+
+static 37 Autumn Autumn true 5461
+
+static 38 Thailand Thailand true 3918
+
+static 39 Alcohol Alcohol true 4517
+
+static 40 Hamburger Hamburger true 1889
+
+static 41 Juice Juice true 3412
+
+static 42 Pizza Pizza true 2836
+
+static 43 Pizza Pizza true 2168
+
+static 44 Summer Summer true 4368
+
+static 45 Rice Rice true 2336
+
+static 46 Coffee Coffee true 6852
+
+static 47 Lobster Lobster true 4032
+
+static 48 Germany Germany true 3150
+
+static 49 Hamburger Hamburger true 2812
+
+static 50 Lamp Lamp true 3718
+
+ephemeral 1 Oakland Oakland true 4352
+
+ephemeral 2 Motocycle Motocycle true 4335
+
+ephemeral 3 Oklahoma Oklahoma true 3262
+
+ephemeral 4 SF SF true 7228
+
+ephemeral 5 Clubs Clubs true 3934
+
+ephemeral 6 Oregon Oregon true 2100
+
+ephemeral 7 Bus Bus true 2494
+
+ephemeral 8 Computer Computer true 2171
+
+ephemeral 9 Barbara Barbara true 2807
+
+ephemeral 10 Boot Boot true 3455
+
+ephemeral 11 Happy Happy true 1831
+
+ephemeral 12 Sad Sad true 1677
+
+ephemeral 13 Cali Cali true 1851
+
+ephemeral 14 Oakland Oakland true 1846
+
+ephemeral 15 Rabbit Rabbit true 4516
+
+ephemeral 16 San Jose San Jose true 2320
+
+ephemeral 17 Cano Cano true 2333
+
+ephemeral 18 Excited Excited true 2080
+
+ephemeral 19 New Mexico New Mexico true 2723
+
+ephemeral 20 Monterey Monterey true 2292
+
+ephemeral 21 Hearts Hearts true 1982
+
+ephemeral 22 Computer Computer true 3552
+
+ephemeral 23 Oakland Oakland true 1818
+
+ephemeral 24 New Mexico New Mexico true 2690
+
+ephemeral 25 New Jersey New Jersey true 4834
+
+ephemeral 26 Dog Dog true 4770
+
+ephemeral 27 Monterey Monterey true 2026
+
+ephemeral 28 Dog Dog true 2192
+
+ephemeral 29 Barbara Barbara true 2098
+
+ephemeral 30 San Diego San Diego true 2410
+
+ephemeral 31 Motocycle Motocycle true 4500
+
+ephemeral 32 Pear Pear true 2820
+
+ephemeral 33 Clubs Clubs true 3851
+
+ephemeral 34 New Jersey New Jersey true 3109
+
+ephemeral 35 Car Car true 2320
+
+ephemeral 36 Excited Excited true 2470
+
+ephemeral 37 Washington Washington true 2232
+
+ephemeral 38 Bus Bus true 2797
+
+ephemeral 39 Computer Computer true 2375
+
+ephemeral 40 Florida Florida true 3162
+
+ephemeral 41 Mango Mango true 2542
+
+ephemeral 42 Car Car true 4811
+
+ephemeral 43 Strawberry Strawberry true 2831
+
+ephemeral 44 Strawberry Strawberry true 2390
+
+ephemeral 45 Washington Washington true 2749
+
+ephemeral 46 Oakland Oakland true 1943
+
+ephemeral 47 New Jersey New Jersey true 2394
+
+ephemeral 48 Monterey Monterey true 2352
+
+ephemeral 49 Diamonds Diamonds true 2998
+
+ephemeral 50 Bus Bus true 2316
+
+ephemeralw 1 Colgate Colgate true 3418
+
+ephemeralw 2 Mexico Mexico true 3641
+
+ephemeralw 3 Samsung Samsung true 3285
+
+ephemeralw 4 Apple Apple true 7037
+
+ephemeralw 5 Amazon Amazon true 1954
+
+ephemeralw 6 Red Red true 2670
+
+ephemeralw 7 Pepsodent Pepsodent true 2225
+
+ephemeralw 8 USA USA true 2719
+
+ephemeralw 9 Continental Continental true 3540
+
+ephemeralw 10 Yellow Yellow true 3504
+
+ephemeralw 11 Audi Audi true 2648
+
+ephemeralw 12 Yellow Yellow true 2452
+
+ephemeralw 13 Blue Sky Blue Sky true 4138
+
+ephemeralw 14 Nissan Nissan true 3706
+
+ephemeralw 15 Yokohama Yokohama true 3506
+
+ephemeralw 16 Pixar Pixar true 7481
+
+ephemeralw 17 Yellow Yellow true 3236
+
+ephemeralw 18 Crest Crest true 4330
+
+ephemeralw 19 Audi Audi true 2550
+
+ephemeralw 20 UCSC UCSC true 4386
+
+ephemeralw 21 NASA NASA true 2824
+
+ephemeralw 22 DreamWorks DreamWorks true 2598
+
+ephemeralw 23 Yokohama Yokohama true 3300
+
+ephemeralw 24 Sony Sony true 4290
+
+ephemeralw 25 Colgate Colgate true 5500
+
+ephemeralw 26 Facebook Facebook true 3382
+
+ephemeralw 27 Toyota Toyota true 4274
+
+ephemeralw 28 Colgate Colgate true 3988
+
+ephemeralw 29 Toyota Toyota true 3792
+
+ephemeralw 30 USA USA true 4874
+
+ephemeralw 31 Red Red true 4370
+
+ephemeralw 32 Canada Canada true 2708
+
+ephemeralw 33 Green Green true 2953
+
+ephemeralw 34 USA USA true 3248
+
+ephemeralw 35 Yellow Yellow true 3842
+
+ephemeralw 36 Continental Continental true 3274
+
+ephemeralw 37 Sony Sony true 5766
+
+ephemeralw 38 NASA NASA true 2800
+
+ephemeralw 39 Google Google true 3404
+
+ephemeralw 40 Sony Sony true 3476
+
+ephemeralw 41 Apple Apple true 2680
+
+ephemeralw 42 Amazon Amazon true 2512
+
+ephemeralw 43 Amazon Amazon true 2612
+
+ephemeralw 44 Samsung Samsung true 3046
+
+ephemeralw 45 Yellow Yellow true 4144
+
+ephemeralw 46 Davis Davis true 4024
+
+ephemeralw 47 Crest Crest true 4924
+
+ephemeralw 48 Red Red true 3722
+
+ephemeralw 49 Nissan Nissan true 3898
+
+ephemeralw 50 UCSC UCSC true 5998

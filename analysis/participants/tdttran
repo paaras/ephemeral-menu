@@ -1,0 +1,299 @@
+static 1 Juice Juice true 2279
+
+static 2 Cheddar Cheddar true 2942
+
+static 3 Salmon Salmon true 2862
+
+static 4 Milk Milk true 2426
+
+static 5 France France true 3238
+
+static 6 Germany Germany true 2720
+
+static 7 Soup Soup true 2516
+
+static 8 Espresso Espresso true 2696
+
+static 9 Spring Spring true 3883
+
+static 10 Onion Onion true 3253
+
+static 11 Noodle Noodle true 2832
+
+static 12 Chicken Chicken true 3558
+
+static 13 Pasta Pasta true 2642
+
+static 14 Italy Italy true 2932
+
+static 15 Shrimp Shrimp true 2900
+
+static 16 Sandwiches Sandwiches true 8318
+
+static 17 Carrot Carrot true 10098
+
+static 18 Noodle Noodle true 1982
+
+static 19 India India true 3846
+
+static 20 Pasta Pasta true 2176
+
+static 21 France France true 3928
+
+static 22 Tomato Tomato true 4768
+
+static 23 Macchiato Macchiato true 4278
+
+static 24 Garlic Garlic true 2996
+
+static 25 Soup Soup true 2764
+
+static 26 Hamburger Hamburger true 2670
+
+static 27 Coffee Coffee true 3564
+
+static 28 France France true 23071
+
+static 29 Japan Japan true 2742
+
+static 30 Garlic Garlic true 1954
+
+static 31 Alcohol Alcohol true 4330
+
+static 32 France France true 6678
+
+static 33 Chicken Chicken true 3946
+
+static 34 Hamburger Hamburger true 2486
+
+static 35 Macchiato Macchiato true 3886
+
+static 36 Espresso Espresso true 2586
+
+static 37 Thailand Thailand true 2280
+
+static 38 Macchiato Macchiato true 2840
+
+static 39 Steak Steak true 2702
+
+static 40 Oyster Oyster true 4390
+
+static 41 Macchiato Macchiato true 2606
+
+static 42 Soup Soup true 2952
+
+static 43 Autumn Autumn true 3302
+
+static 44 India India true 2348
+
+static 45 Coffee Coffee true 2605
+
+static 46 Espresso Espresso true 3087
+
+static 47 Hamburger Hamburger true 3603
+
+static 48 Pasta Pasta true 2550
+
+static 49 Chicken Chicken true 3400
+
+static 50 France France true 4399
+
+ephemeral 1 Milpitas Milpitas true 2189
+
+ephemeral 2 Florida Florida true 2526
+
+ephemeral 3 Motocycle Motocycle true 2496
+
+ephemeral 4 Car Car true 1926
+
+ephemeral 5 Computer Computer true 1727
+
+ephemeral 6 Barbara Barbara true 1897
+
+ephemeral 7 Goat Goat true 2200
+
+ephemeral 8 Computer Computer true 1877
+
+ephemeral 9 Mango Mango true 2255
+
+ephemeral 10 Cat Cat true 2094
+
+ephemeral 11 Dog Dog true 2162
+
+ephemeral 12 Cat Cat true 2164
+
+ephemeral 13 Barbara Barbara true 1896
+
+ephemeral 14 Apple Apple true 2526
+
+ephemeral 15 Goat Goat true 2876
+
+ephemeral 16 San Jose San Jose true 2472
+
+ephemeral 17 Goat Goat true 2416
+
+ephemeral 18 Diamonds Diamonds true 1922
+
+ephemeral 19 Excited Excited true 2118
+
+ephemeral 20 Bicycle Bicycle true 2038
+
+ephemeral 21 Motocycle Motocycle true 2150
+
+ephemeral 22 Washington Washington true 1802
+
+ephemeral 23 Milpitas Milpitas true 1844
+
+ephemeral 24 Happy Happy true 1816
+
+ephemeral 25 Boot Boot true 2174
+
+ephemeral 26 Excited Excited true 2289
+
+ephemeral 27 Goat Goat true 1977
+
+ephemeral 28 Excited Excited true 1752
+
+ephemeral 29 Computer Computer true 2050
+
+ephemeral 30 Texas Texas true 2304
+
+ephemeral 31 Computer Computer true 2170
+
+ephemeral 32 Angry Angry true 1648
+
+ephemeral 33 Cat Cat true 2332
+
+ephemeral 34 Pennsylvania Pennsylvania true 2693
+
+ephemeral 35 Hearts Hearts true 1872
+
+ephemeral 36 Airplane Airplane true 1765
+
+ephemeral 37 Bicycle Bicycle true 1538
+
+ephemeral 38 Motocycle Motocycle true 1991
+
+ephemeral 39 Dog Dog true 1886
+
+ephemeral 40 Bus Bus true 1967
+
+ephemeral 41 Computer Computer true 2001
+
+ephemeral 42 Airplane Airplane true 2738
+
+ephemeral 43 Milpitas Milpitas true 1756
+
+ephemeral 44 Happy Happy true 2153
+
+ephemeral 45 Monterey Monterey true 1701
+
+ephemeral 46 Goat Goat true 2030
+
+ephemeral 47 Oklahoma Oklahoma true 2051
+
+ephemeral 48 Cat Cat true 1796
+
+ephemeral 49 Connecticut Connecticut true 3094
+
+ephemeral 50 Motocycle Motocycle true 2170
+
+ephemeralw 1 Yokohama Yokohama true 3494
+
+ephemeralw 2 Canada Canada true 2988
+
+ephemeralw 3 BMW BMW true 3390
+
+ephemeralw 4 Google Google true 3352
+
+ephemeralw 5 Pepsodent Pepsodent true 2894
+
+ephemeralw 6 DreamWorks DreamWorks true 2132
+
+ephemeralw 7 Mazda Mazda true 3446
+
+ephemeralw 8 Red Red true 3590
+
+ephemeralw 9 Sensodyne Sensodyne true 2404
+
+ephemeralw 10 DreamWorks DreamWorks true 3028
+
+ephemeralw 11 Blue Sky Blue Sky true 2246
+
+ephemeralw 12 Amazon Amazon true 3246
+
+ephemeralw 13 Honda Honda true 2490
+
+ephemeralw 14 SpaceX SpaceX true 2412
+
+ephemeralw 15 SJSU SJSU true 4010
+
+ephemeralw 16 Catfish Catfish true 2220
+
+ephemeralw 17 Orange Orange true 3286
+
+ephemeralw 18 Apple Apple true 2520
+
+ephemeralw 19 Nio Nio true 2429
+
+ephemeralw 20 Vizio Vizio true 1976
+
+ephemeralw 21 Crest Crest true 1999
+
+ephemeralw 22 Yokohama Yokohama true 3317
+
+ephemeralw 23 Blue Sky Blue Sky true 2288
+
+ephemeralw 24 Sensodyne Sensodyne true 2612
+
+ephemeralw 25 Facebook Facebook true 3058
+
+ephemeralw 26 USA USA true 2699
+
+ephemeralw 27 Cod Cod true 2825
+
+ephemeralw 28 Tilapia Tilapia true 3126
+
+ephemeralw 29 Samsung Samsung true 4059
+
+ephemeralw 30 UCSC UCSC true 2772
+
+ephemeralw 31 Samsung Samsung true 3245
+
+ephemeralw 32 Vizio Vizio true 3133
+
+ephemeralw 33 Colgate Colgate true 2151
+
+ephemeralw 34 Sony Sony true 3684
+
+ephemeralw 35 Stanford Stanford true 2726
+
+ephemeralw 36 SpaceX SpaceX true 2655
+
+ephemeralw 37 Nissan Nissan true 4069
+
+ephemeralw 38 Crest Crest true 2297
+
+ephemeralw 39 Mazda Mazda true 3664
+
+ephemeralw 40 Green Green true 3068
+
+ephemeralw 41 Yokohama Yokohama true 3013
+
+ephemeralw 42 Amazon Amazon true 3108
+
+ephemeralw 43 SpaceX SpaceX true 4764
+
+ephemeralw 44 Canada Canada true 3004
+
+ephemeralw 45 BMW BMW true 2916
+
+ephemeralw 46 Yellow Yellow true 2488
+
+ephemeralw 47 Pepsodent Pepsodent true 3350
+
+ephemeralw 48 UCSC UCSC true 3238
+
+ephemeralw 49 Samsung Samsung true 12369
+
+ephemeralw 50 Sensodyne Sensodyne true 2865

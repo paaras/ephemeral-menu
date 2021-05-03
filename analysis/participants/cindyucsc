@@ -1,0 +1,299 @@
+static 1 Espresso Espresso true 3067
+
+static 2 Juice Juice true 1864
+
+static 3 Lemon Lemon true 3126
+
+static 4 Fries Fries true 3036
+
+static 5 Banana Banana true 2170
+
+static 6 Garlic Garlic true 3436
+
+static 7 Apple Apple true 5386
+
+static 8 Beef Beef true 4028
+
+static 9 Cappuccino Cappuccino true 3234
+
+static 10 Italy Italy true 2154
+
+static 11 Banana Banana true 2180
+
+static 12 Sushi Sushi true 6024
+
+static 13 Winter Winter true 3928
+
+static 14 Cappuccino Cappuccino true 2114
+
+static 15 Lemon Lemon true 3356
+
+static 16 Japan Japan true 2806
+
+static 17 Korea Korea true 4370
+
+static 18 Lemon Lemon true 3016
+
+static 19 Chicken Chicken true 3408
+
+static 20 Alcohol Alcohol true 1958
+
+static 21 Summer Summer true 3636
+
+static 22 Spain Spain true 4580
+
+static 23 Cappuccino Cappuccino true 2614
+
+static 24 Orange Orange true 2718
+
+static 25 Banana Banana true 2718
+
+static 26 Sandwiches Sandwiches true 2136
+
+static 27 Spain Spain true 2351
+
+static 28 Cheddar Cheddar true 2679
+
+static 29 Korea Korea true 5122
+
+static 30 Milk Milk true 1994
+
+static 31 Hamburger Hamburger true 1942
+
+static 32 Lemon Lemon true 2754
+
+static 33 Germany Germany true 5260
+
+static 34 Noodle Noodle true 3366
+
+static 35 Spring Spring true 3924
+
+static 36 Tomato Tomato true 3966
+
+static 37 France France true 5568
+
+static 38 Rice Rice true 3433
+
+static 39 Beef Beef true 3261
+
+static 40 Pizza Pizza true 2586
+
+static 41 Thailand Thailand true 2963
+
+static 42 Steak Steak true 2555
+
+static 43 Pizza Pizza true 4876
+
+static 44 India India true 3036
+
+static 45 Beef Beef true 2598
+
+static 46 Banana Banana true 2200
+
+static 47 Soup Soup true 2174
+
+static 48 Apple Apple true 2868
+
+static 49 Rice Rice true 2496
+
+static 50 Milk Milk true 2490
+
+ephemeral 1 Strawberry Strawberry true 2054
+
+ephemeral 2 Santa Ana Santa Ana true 2093
+
+ephemeral 3 San Bernardino San Bernardino true 2424
+
+ephemeral 4 Laguna Hills Laguna Hills true 5462
+
+ephemeral 5 Laguna Hills Laguna Hills true 2006
+
+ephemeral 6 San Diego San Diego true 2239
+
+ephemeral 7 Santa Cruz Santa Cruz true 1962
+
+ephemeral 8 Los Altos Los Altos true 2150
+
+ephemeral 9 Los Banos Los Banos true 2134
+
+ephemeral 10 San Bernardino San Bernardino true 2216
+
+ephemeral 11 Alabama Alabama true 2790
+
+ephemeral 12 Hearts Hearts true 1921
+
+ephemeral 13 Florida Florida true 2230
+
+ephemeral 14 Hearts Hearts true 1756
+
+ephemeral 15 Georgia Georgia true 2293
+
+ephemeral 16 San Diego San Diego true 2379
+
+ephemeral 17 San Jose San Jose true 3895
+
+ephemeral 18 Santa Cruz Santa Cruz true 2100
+
+ephemeral 19 Dog Dog true 2571
+
+ephemeral 20 Dog Dog true 2317
+
+ephemeral 21 Clubs Clubs true 3036
+
+ephemeral 22 Hearts Hearts true 1970
+
+ephemeral 23 Santa Barbara Santa Barbara true 1840
+
+ephemeral 24 Los Banos Los Banos true 3674
+
+ephemeral 25 San Diego San Diego true 2097
+
+ephemeral 26 Dog Dog true 2627
+
+ephemeral 27 Sad Sad true 1823
+
+ephemeral 28 Santa Clara Santa Clara true 2428
+
+ephemeral 29 El Dorado Hills El Dorado Hills true 2376
+
+ephemeral 30 Spades Spades true 2777
+
+ephemeral 31 Santa Ana Santa Ana true 2544
+
+ephemeral 32 Los Gatos Los Gatos true 2281
+
+ephemeral 33 Strawberry Strawberry true 2070
+
+ephemeral 34 Georgia Georgia true 2403
+
+ephemeral 35 San Francisco San Francisco true 2357
+
+ephemeral 36 Oregon Oregon true 3186
+
+ephemeral 37 Beverly Hills Laguna Hills false 2452
+
+ephemeral 38 Santa Cruz Santa Cruz true 2691
+
+ephemeral 39 Los Gatos Los Gatos true 1997
+
+ephemeral 40 El Dorado Hills El Dorado Hills true 2032
+
+ephemeral 41 Santa Barbara Santa Barbara true 1857
+
+ephemeral 42 Happy Happy true 1964
+
+ephemeral 43 Arizona Arizona true 2113
+
+ephemeral 44 Los Banos Los Banos true 2503
+
+ephemeral 45 Angry Angry true 1905
+
+ephemeral 46 Santa Cruz Santa Cruz true 2005
+
+ephemeral 47 California California true 3130
+
+ephemeral 48 Cat Cat true 2187
+
+ephemeral 49 Oklahoma Oklahoma true 2154
+
+ephemeral 50 Oklahoma Oklahoma true 2062
+
+ephemeralw 1 Stanford SJSU false 4996
+
+ephemeralw 2 Yellow Yellow true 4884
+
+ephemeralw 3 Yellow Orange false 1692
+
+ephemeralw 4 LG LG true 3978
+
+ephemeralw 5 Blue Sky Blue Sky true 3532
+
+ephemeralw 6 SpaceX SpaceX true 2996
+
+ephemeralw 7 Google Google true 2558
+
+ephemeralw 8 Nissan Nissan true 2234
+
+ephemeralw 9 Orange Orange true 2712
+
+ephemeralw 10 DreamWorks DreamWorks true 3414
+
+ephemeralw 11 DreamWorks DreamWorks true 1929
+
+ephemeralw 12 Google Google true 3672
+
+ephemeralw 13 Lexus Lexus true 3625
+
+ephemeralw 14 Amazon Yellow false 2602
+
+ephemeralw 15 Google Facebook false 4739
+
+ephemeralw 16 SpaceX SpaceX true 3533
+
+ephemeralw 17 Cuba Catfish false 2548
+
+ephemeralw 18 Toyota Toyota true 4474
+
+ephemeralw 19 Sony Sony true 3552
+
+ephemeralw 20 Facebook Facebook true 2721
+
+ephemeralw 21 Facebook Facebook true 1565
+
+ephemeralw 22 Stanford Stanford true 2428
+
+ephemeralw 23 Mercedes-Benz Mercedes-Benz true 2476
+
+ephemeralw 24 Sensodyne Sensodyne true 2911
+
+ephemeralw 25 Green Green true 2820
+
+ephemeralw 26 SJSU SJSU true 2663
+
+ephemeralw 27 Cod Cod true 2270
+
+ephemeralw 28 Apple Apple true 3084
+
+ephemeralw 29 Blue Sky Blue Sky true 4218
+
+ephemeralw 30 Salmon Salmon true 4689
+
+ephemeralw 31 Apple Apple true 2658
+
+ephemeralw 32 Vizio Vizio true 6099
+
+ephemeralw 33 Sony Sony true 4986
+
+ephemeralw 34 Continental Continental true 2738
+
+ephemeralw 35 Honda Honda true 2580
+
+ephemeralw 36 Samsung Samsung true 5813
+
+ephemeralw 37 Cuba Cuba true 3566
+
+ephemeralw 38 NASA NASA true 2581
+
+ephemeralw 39 LG LG true 2240
+
+ephemeralw 40 LG LG true 1915
+
+ephemeralw 41 Amazon Amazon true 2514
+
+ephemeralw 42 Red Red true 7344
+
+ephemeralw 43 Blue Sky Blue Sky true 4870
+
+ephemeralw 44 Mercedes-Benz Mercedes-Benz true 3116
+
+ephemeralw 45 Red Red true 2702
+
+ephemeralw 46 Mercedes-Benz Mercedes-Benz true 2808
+
+ephemeralw 47 Green Green true 4380
+
+ephemeralw 48 Mexico Mexico true 6110
+
+ephemeralw 49 Facebook Facebook true 2516
+
+ephemeralw 50 Blue Origin Blue Origin true 2804

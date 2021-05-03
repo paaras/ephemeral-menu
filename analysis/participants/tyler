@@ -1,0 +1,299 @@
+static 1 Shrimp Shrimp true 6221
+
+static 2 Lamp Lamp true 7096
+
+static 3 Espresso Espresso true 4472
+
+static 4 Onion Onion true 4328
+
+static 5 Cappuccino Cappuccino true 4904
+
+static 6 Macchiato Macchiato true 2840
+
+static 7 Shrimp Shrimp true 4440
+
+static 8 Pasta Pasta true 6800
+
+static 9 Espresso Espresso true 3048
+
+static 10 Italy Italy true 2728
+
+static 11 Milk Milk true 2784
+
+static 12 Milk Milk true 3232
+
+static 13 Alcohol Alcohol true 1968
+
+static 14 Soup Soup true 4208
+
+static 15 Cappuccino Cappuccino true 2912
+
+static 16 Tomato Tomato true 9720
+
+static 17 Juice Juice true 23744
+
+static 18 Shrimp Shrimp true 2552
+
+static 19 Salmon Salmon true 3304
+
+static 20 Pizza Pizza true 5328
+
+static 21 Spain Spain true 3104
+
+static 22 Spain Spain true 3088
+
+static 23 Tomato Tomato true 3400
+
+static 24 France France true 6336
+
+static 25 Coffee Coffee true 4536
+
+static 26 Cheddar Cheddar true 5072
+
+static 27 Espresso Espresso true 3056
+
+static 28 Curry Curry true 3456
+
+static 29 Juice Juice true 5760
+
+static 30 Cappuccino Cappuccino true 7760
+
+static 31 Summer Summer true 2720
+
+static 32 Steak Steak true 9008
+
+static 33 Lemon Lemon true 3344
+
+static 34 Winter Winter true 4664
+
+static 35 Hamburger Hamburger true 2888
+
+static 36 Espresso Espresso true 13608
+
+static 37 Sandwiches Sandwiches true 2672
+
+static 38 Coffee Coffee true 4640
+
+static 39 Milk Milk true 4088
+
+static 40 France France true 2456
+
+static 41 Italy Italy true 5928
+
+static 42 Germany Germany true 20127
+
+static 43 Fries Fries true 2112
+
+static 44 Hamburger Hamburger true 2560
+
+static 45 Cheddar Cheddar true 3080
+
+static 46 Alcohol Alcohol true 3024
+
+static 47 Soup Soup true 6104
+
+static 48 Onion Onion true 2552
+
+static 49 Pasta Pasta true 4112
+
+static 50 Hotpot Hotpot true 2712
+
+ephemeral 1 Chino Hills Chino Hills true 2805
+
+ephemeral 2 Santa Cruz Santa Cruz true 2768
+
+ephemeral 3 Pennsylvania Pennsylvania true 2673
+
+ephemeral 4 Laguna Hills Laguna Hills true 2511
+
+ephemeral 5 New York New York true 2504
+
+ephemeral 6 Nevada Nevada true 8032
+
+ephemeral 7 San Diego San Diego true 3088
+
+ephemeral 8 Chino Hills Chino Hills true 2608
+
+ephemeral 9 Chino Hills Chino Hills true 2336
+
+ephemeral 10 Goat Goat true 3352
+
+ephemeral 11 Chino Hills Chino Hills true 2880
+
+ephemeral 12 Pennsylvania Pennsylvania true 3136
+
+ephemeral 13 Apple Apple true 3352
+
+ephemeral 14 El Dorado Hills El Dorado Hills true 3728
+
+ephemeral 15 South Carolina South Carolina true 3040
+
+ephemeral 16 Santa Cruz Santa Cruz true 3040
+
+ephemeral 17 Los Banos Los Banos true 3472
+
+ephemeral 18 Pear Pear true 2928
+
+ephemeral 19 San Francisco San Francisco true 5664
+
+ephemeral 20 Santa Ana Santa Ana true 3256
+
+ephemeral 21 Los Banos Los Banos true 3192
+
+ephemeral 22 Los Banos Los Banos true 2505
+
+ephemeral 23 San Bernardino San Bernardino true 2280
+
+ephemeral 24 Strawberry Strawberry true 4472
+
+ephemeral 25 Santa Barbara Santa Barbara true 2624
+
+ephemeral 26 Santa Cruz Santa Cruz true 2216
+
+ephemeral 27 Mango Mango true 4743
+
+ephemeral 28 Angry Angry true 3873
+
+ephemeral 29 Washington Washington true 3368
+
+ephemeral 30 Los Banos Los Banos true 2888
+
+ephemeral 31 Arizona Arizona true 4360
+
+ephemeral 32 San Bernardino San Bernardino true 3008
+
+ephemeral 33 Santa Clara Santa Clara true 3112
+
+ephemeral 34 San Jose San Jose true 4568
+
+ephemeral 35 Oregon Oregon true 3120
+
+ephemeral 36 Santa Cruz Santa Cruz true 3016
+
+ephemeral 37 San Diego San Diego true 3176
+
+ephemeral 38 Santa Barbara Santa Barbara true 2384
+
+ephemeral 39 Diamonds Diamonds true 4560
+
+ephemeral 40 Oklahoma Oklahoma true 3311
+
+ephemeral 41 San Bernardino San Bernardino true 3504
+
+ephemeral 42 Dog Dog true 4392
+
+ephemeral 43 Beverly Hills Beverly Hills true 5376
+
+ephemeral 44 New York New York true 4176
+
+ephemeral 45 Angry Angry true 3840
+
+ephemeral 46 San Bernardino San Bernardino true 3521
+
+ephemeral 47 Santa Clara Santa Clara true 5631
+
+ephemeral 48 Apple Apple true 3248
+
+ephemeral 49 San Bernardino San Bernardino true 2608
+
+ephemeral 50 Beverly Hills Beverly Hills true 3248
+
+ephemeralw 1 Samsung Samsung true 3645
+
+ephemeralw 2 Yokohama Yokohama true 3616
+
+ephemeralw 3 Cod Cod true 4696
+
+ephemeralw 4 Facebook Facebook true 6344
+
+ephemeralw 5 Pixar Pixar true 4880
+
+ephemeralw 6 Samsung Samsung true 7648
+
+ephemeralw 7 Yellow Yellow true 4304
+
+ephemeralw 8 Michelin Michelin true 5024
+
+ephemeralw 9 UCSC UCSC true 6424
+
+ephemeralw 10 Pepsodent Pepsodent true 6968
+
+ephemeralw 11 Vizio Vizio true 11584
+
+ephemeralw 12 Canada Canada true 6896
+
+ephemeralw 13 Toyota Toyota true 19752
+
+ephemeralw 14 Mazda Mazda true 2784
+
+ephemeralw 15 Disney Disney true 5064
+
+ephemeralw 16 SJSU SJSU true 9248
+
+ephemeralw 17 Google Google true 3623
+
+ephemeralw 18 SJSU SJSU true 4224
+
+ephemeralw 19 SJSU SJSU true 3608
+
+ephemeralw 20 Apple Apple true 5800
+
+ephemeralw 21 Apple Apple true 2864
+
+ephemeralw 22 Boeing Boeing true 7632
+
+ephemeralw 23 USA USA true 3632
+
+ephemeralw 24 LG LG true 7176
+
+ephemeralw 25 Blue Origin Blue Origin true 3808
+
+ephemeralw 26 Disney Disney true 6936
+
+ephemeralw 27 Mercedes-Benz Mercedes-Benz true 7489
+
+ephemeralw 28 Colgate Colgate true 5368
+
+ephemeralw 29 Facebook Facebook true 4192
+
+ephemeralw 30 Red Red true 7728
+
+ephemeralw 31 Honda Honda true 3616
+
+ephemeralw 32 Lexus Lexus true 3568
+
+ephemeralw 33 Toyota Toyota true 9680
+
+ephemeralw 34 LG LG true 5704
+
+ephemeralw 35 Orange Orange true 5335
+
+ephemeralw 36 Audi Audi true 7080
+
+ephemeralw 37 Colgate Colgate true 6433
+
+ephemeralw 38 USA USA true 4791
+
+ephemeralw 39 Boeing Boeing true 6216
+
+ephemeralw 40 Sensodyne Sensodyne true 5656
+
+ephemeralw 41 Blue Sky Blue Sky true 12392
+
+ephemeralw 42 Yellow Yellow true 5192
+
+ephemeralw 43 Amazon Amazon true 6016
+
+ephemeralw 44 LG LG true 6160
+
+ephemeralw 45 Continental Continental true 4088
+
+ephemeralw 46 Samsung Samsung true 7568
+
+ephemeralw 47 Sensodyne Sensodyne true 8129
+
+ephemeralw 48 Mazda Mazda true 5976
+
+ephemeralw 49 DreamWorks DreamWorks true 5560
+
+ephemeralw 50 Amazon Amazon true 4576

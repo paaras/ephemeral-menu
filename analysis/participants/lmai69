@@ -1,0 +1,299 @@
+static 1 Espresso Espresso true 3068
+
+static 2 Autumn Autumn true 3014
+
+static 3 Espresso Espresso true 4056
+
+static 4 Italy Italy true 4290
+
+static 5 Hotpot Hotpot true 4712
+
+static 6 Pasta Pasta true 3682
+
+static 7 Cappuccino Cappuccino true 4855
+
+static 8 Soup Soup true 4087
+
+static 9 Espresso Espresso true 3722
+
+static 10 Carrot Carrot true 3146
+
+static 11 Milk Milk true 4910
+
+static 12 Coffee Coffee true 3734
+
+static 13 France France true 2412
+
+static 14 Lemon Lemon true 4720
+
+static 15 Cheddar Cheddar true 4690
+
+static 16 Banana Banana true 4236
+
+static 17 Juice Juice true 3642
+
+static 18 Apple Apple true 3274
+
+static 19 Orange Orange true 3790
+
+static 20 Sandwiches Sandwiches true 3046
+
+static 21 Steak Steak true 3068
+
+static 22 Pizza Pizza true 4334
+
+static 23 Alcohol Alcohol true 4496
+
+static 24 Cheddar Cheddar true 2956
+
+static 25 Orange Orange true 2798
+
+static 26 Cheddar Cheddar true 3228
+
+static 27 India India true 3092
+
+static 28 Pasta Pasta true 3230
+
+static 29 Oyster Oyster true 4572
+
+static 30 France France true 3364
+
+static 31 Sandwiches Sandwiches true 2706
+
+static 32 Hamburger Hamburger true 3126
+
+static 33 Pizza Pizza true 3366
+
+static 34 Sushi Sushi true 3472
+
+static 35 Hotpot Hotpot true 3424
+
+static 36 Espresso Espresso true 3576
+
+static 37 Spain Spain true 2836
+
+static 38 Coffee Coffee true 3500
+
+static 39 Espresso Espresso true 6554
+
+static 40 Juice Juice true 3716
+
+static 41 Hamburger Hamburger true 4676
+
+static 42 Steak Steak true 2614
+
+static 43 Steak Steak true 3010
+
+static 44 Spain Spain true 4470
+
+static 45 Banana Banana true 3444
+
+static 46 Sandwiches Sandwiches true 2880
+
+static 47 Alcohol Alcohol true 2226
+
+static 48 Juice Juice true 2590
+
+static 49 Juice Juice true 2026
+
+static 50 Pasta Pasta true 2464
+
+ephemeral 1 San Diego San Diego true 3358
+
+ephemeral 2 Excited Excited true 1993
+
+ephemeral 3 Los Altos Los Altos true 3778
+
+ephemeral 4 Happy Happy true 4841
+
+ephemeral 5 Beverly Hills Beverly Hills true 2469
+
+ephemeral 6 San Diego San Diego true 3259
+
+ephemeral 7 Los Gatos Los Gatos true 4088
+
+ephemeral 8 Spades Spades true 4290
+
+ephemeral 9 Angry Angry true 2306
+
+ephemeral 10 El Dorado Hills El Dorado Hills true 2597
+
+ephemeral 11 Los Banos Los Banos true 5931
+
+ephemeral 12 Chino Hills Chino Hills true 2625
+
+ephemeral 13 Diamonds Diamonds true 2826
+
+ephemeral 14 San Diego San Diego true 2837
+
+ephemeral 15 Santa Clara Santa Clara true 2721
+
+ephemeral 16 Santa Clara Santa Clara true 2112
+
+ephemeral 17 Santa Cruz Santa Cruz true 1901
+
+ephemeral 18 Florida Florida true 4410
+
+ephemeral 19 Texas Texas true 2535
+
+ephemeral 20 Apple Apple true 3435
+
+ephemeral 21 San Bernardino San Bernardino true 3374
+
+ephemeral 22 Washington Washington true 2380
+
+ephemeral 23 New York New York true 5144
+
+ephemeral 24 Nevada Nevada true 2292
+
+ephemeral 25 Los Banos Los Banos true 6331
+
+ephemeral 26 Oregon Oregon true 2450
+
+ephemeral 27 Georgia Georgia true 3123
+
+ephemeral 28 Santa Clara Santa Clara true 7322
+
+ephemeral 29 Texas Texas true 2376
+
+ephemeral 30 Cat Cat true 2256
+
+ephemeral 31 Texas Texas true 2770
+
+ephemeral 32 Spades Spades true 2720
+
+ephemeral 33 New Mexico New Mexico true 2150
+
+ephemeral 34 San Diego San Diego true 2264
+
+ephemeral 35 Florida Florida true 2551
+
+ephemeral 36 Nevada Nevada true 2313
+
+ephemeral 37 Apple Apple true 2272
+
+ephemeral 38 Clubs Clubs true 3501
+
+ephemeral 39 Pennsylvania Pennsylvania true 3268
+
+ephemeral 40 Strawberry Strawberry true 2256
+
+ephemeral 41 Dog Dog true 2674
+
+ephemeral 42 Dog Dog true 2271
+
+ephemeral 43 Connecticut Connecticut true 2673
+
+ephemeral 44 Los Gatos Los Gatos true 3114
+
+ephemeral 45 Apple Apple true 2489
+
+ephemeral 46 Beverly Hills Beverly Hills true 2386
+
+ephemeral 47 El Dorado Hills El Dorado Hills true 2770
+
+ephemeral 48 El Dorado Hills El Dorado Hills true 2396
+
+ephemeral 49 Laguna Hills Laguna Hills true 2138
+
+ephemeral 50 Arizona Arizona true 2034
+
+ephemeralw 1 Vizio Vizio true 8114
+
+ephemeralw 2 Santa Clara University Santa Clara University true 2512
+
+ephemeralw 3 Goodyear Goodyear true 3620
+
+ephemeralw 4 Sony Sony true 3552
+
+ephemeralw 5 Pixar Pixar true 3050
+
+ephemeralw 6 Colgate Colgate true 3620
+
+ephemeralw 7 Mazda Mazda true 4598
+
+ephemeralw 8 Orange Orange true 3138
+
+ephemeralw 9 Colgate Colgate true 2916
+
+ephemeralw 10 SJSU SJSU true 3982
+
+ephemeralw 11 Sony Sony true 4422
+
+ephemeralw 12 Red Red true 2740
+
+ephemeralw 13 Google Google true 2968
+
+ephemeralw 14 Blue Origin Blue Origin true 8823
+
+ephemeralw 15 Facebook Facebook true 6021
+
+ephemeralw 16 Orange Orange true 3770
+
+ephemeralw 17 Mazda Mazda true 3644
+
+ephemeralw 18 Facebook Facebook true 3104
+
+ephemeralw 19 Continental Continental true 3778
+
+ephemeralw 20 Blue Origin Blue Origin true 3358
+
+ephemeralw 21 Sensodyne Sensodyne true 2550
+
+ephemeralw 22 Amazon Amazon true 2722
+
+ephemeralw 23 Google Google true 1772
+
+ephemeralw 24 Boeing Boeing true 3158
+
+ephemeralw 25 Boeing Boeing true 3450
+
+ephemeralw 26 Facebook Facebook true 2957
+
+ephemeralw 27 Disney Disney true 2987
+
+ephemeralw 28 Pepsodent Pepsodent true 2264
+
+ephemeralw 29 Stanford Stanford true 2332
+
+ephemeralw 30 SpaceX SpaceX true 5882
+
+ephemeralw 31 Pixar Pixar true 3002
+
+ephemeralw 32 Sensodyne Sensodyne true 2250
+
+ephemeralw 33 Catfish Catfish true 2284
+
+ephemeralw 34 Mercedes-Benz Mercedes-Benz true 2838
+
+ephemeralw 35 Mexico Mexico true 3488
+
+ephemeralw 36 BMW BMW true 5172
+
+ephemeralw 37 Amazon Amazon true 3598
+
+ephemeralw 38 Orange Orange true 3254
+
+ephemeralw 39 Cod Cod true 2458
+
+ephemeralw 40 Pepsodent Pepsodent true 2853
+
+ephemeralw 41 BMW BMW true 4725
+
+ephemeralw 42 Amazon Amazon true 3090
+
+ephemeralw 43 Green Green true 4288
+
+ephemeralw 44 Apple Apple true 5098
+
+ephemeralw 45 Continental Continental true 3762
+
+ephemeralw 46 UCSC UCSC true 3334
+
+ephemeralw 47 Cod Cod true 2471
+
+ephemeralw 48 Boeing Boeing true 3714
+
+ephemeralw 49 Red Red true 3578
+
+ephemeralw 50 Red Red true 4439
